@@ -1,7 +1,7 @@
--- Nama    :  Johan Putra Pradana
--- NIM     :  312110314
--- Kelas   :  TI.21.C.1
--- Tugas   :  Pemrograman Orientasi Object
+- Nama    :  Johan Putra Pradana
+- NIM     :  312110314
+- Kelas   :  TI.21.C.1
+- Tugas   :  Pemrograman Orientasi Object
 
 # Laporan_Praktikum4
 ## Polimorfisme
