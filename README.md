@@ -15,7 +15,7 @@
 
 <img width="338" alt="gambar2" src="https://user-images.githubusercontent.com/92928548/200785535-f620ad02-00c2-4f32-95d8-991d0a6b70ad.png">
 
-- Selanjutnya buat subclass bernama Lingkran
+- Selanjutnya buat subclass bernama Lingkaran
 
 - Subclass Lingkaran memiliki atribut r bertype data integer dan bersifat private. 
 
@@ -45,7 +45,7 @@
 
 <img width="508" alt="gambar5" src="https://user-images.githubusercontent.com/92928548/200785553-3b76d542-6fb9-4950-81e6-420589d83b59.png">
 
-- Yang terakhir kita buat file index, disini kita buat objek dan berinilai pada objek. 
+- Yang terakhir kita buat file index, disini kita buat object dan bernilai pada object. 
 
 - Berikut java code programnnya:
 
